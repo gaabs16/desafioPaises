@@ -22,7 +22,5 @@ Projeto web que consome a API [REST Countries](https://restcountries.com) e exib
 - ✅ Busca por nome, capital, região ou idioma
 - ✅ Listagem de todos os países
 - ✅ Imagens das bandeiras
-- ✅ Layout responsivo com `clamp()` (sem necessidade de muitas media queries)
-- ✅ Design simples, limpo e adaptável a diferentes tamanhos de tela
 
 ---
